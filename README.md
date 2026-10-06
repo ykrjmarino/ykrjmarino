@@ -6,7 +6,7 @@ I build web apps with React, Node, and Express, and I'm currently picking up C# 
 
 ### Software Development
 
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -26,7 +26,7 @@ I build web apps with React, Node, and Express, and I'm currently picking up C# 
 ![Azure](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GOOGLE%20CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GoHighLevel](https://img.shields.io/badge/GOHIGHLEVEL-FF8A00?style=for-the-badge)
+![GoHighLevel](https://img.shields.io/badge/GOHIGHLEVEL-003545?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
